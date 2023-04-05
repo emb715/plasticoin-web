@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Maldonado",
+    "created_at": "2020-02-21 15:29:49",
+    "updated_at": "2020-02-21 15:29:49",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Montevideo",
+    "created_at": "2020-02-21 15:54:54",
+    "updated_at": "2020-02-21 15:54:54",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Colonia",
+    "created_at": "2020-02-21 16:01:59",
+    "updated_at": "2020-02-21 16:01:59",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Canelones",
+    "created_at": "2020-02-21 16:10:01",
+    "updated_at": "2020-02-21 16:10:01",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "enabled": true,
+    "country_id": 2,
+    "name": "San José",
+    "created_at": "2020-02-21 16:21:49",
+    "updated_at": "2020-02-21 16:21:49",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Flores",
+    "created_at": "2020-02-21 16:40:09",
+    "updated_at": "2020-02-21 16:40:09",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Florida",
+    "created_at": "2020-02-21 16:44:56",
+    "updated_at": "2020-02-21 16:44:56",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Soriano",
+    "created_at": "2020-02-21 16:50:34",
+    "updated_at": "2020-02-21 16:50:34",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Lavalleja",
+    "created_at": "2020-02-21 16:53:30",
+    "updated_at": "2020-02-21 16:53:30",
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Rocha",
+    "created_at": "2020-02-21 16:56:43",
+    "updated_at": "2020-02-21 16:56:43",
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Rio Negro",
+    "created_at": "2020-02-21 17:05:38",
+    "updated_at": "2020-02-21 17:05:38",
+    "deleted_at": null
+  },
+  {
+    "id": 12,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Durazno",
+    "created_at": "2020-02-21 18:10:51",
+    "updated_at": "2020-02-21 18:10:51",
+    "deleted_at": null
+  },
+  {
+    "id": 13,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Treinta y Tres",
+    "created_at": "2020-02-21 18:12:54",
+    "updated_at": "2020-02-21 18:12:54",
+    "deleted_at": null
+  },
+  {
+    "id": 14,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Paysandú",
+    "created_at": "2020-02-21 18:14:38",
+    "updated_at": "2020-02-21 18:14:38",
+    "deleted_at": null
+  },
+  {
+    "id": 15,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Tacuarembó",
+    "created_at": "2020-02-21 19:19:53",
+    "updated_at": "2020-02-21 19:19:53",
+    "deleted_at": null
+  },
+  {
+    "id": 16,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Cerro Largo",
+    "created_at": "2020-02-21 19:24:02",
+    "updated_at": "2020-02-21 19:24:02",
+    "deleted_at": null
+  },
+  {
+    "id": 17,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Salto",
+    "created_at": "2020-02-21 19:27:54",
+    "updated_at": "2020-02-21 19:27:54",
+    "deleted_at": null
+  },
+  {
+    "id": 18,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Rivera",
+    "created_at": "2020-02-21 19:29:16",
+    "updated_at": "2020-02-21 19:29:16",
+    "deleted_at": null
+  },
+  {
+    "id": 19,
+    "enabled": true,
+    "country_id": 2,
+    "name": "Artigas",
+    "created_at": "2020-02-21 21:38:27",
+    "updated_at": "2020-02-21 21:38:27",
+    "deleted_at": null
+  },
+  {
+    "id": 20,
+    "enabled": true,
+    "country_id": 2,
+    "name": "VENTA ONLINE",
+    "created_at": "2020-02-26 14:22:36",
+    "updated_at": "2020-02-26 14:22:36",
+    "deleted_at": null
+  },
+  {
+    "id": 21,
+    "enabled": false,
+    "country_id": 2,
+    "name": "PLASTICOIN MARKET",
+    "created_at": "2021-04-27 21:36:37",
+    "updated_at": "2021-10-20 17:05:25",
+    "deleted_at": null
+  }
+]

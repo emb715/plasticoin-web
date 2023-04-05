@@ -1,0 +1,1307 @@
+[
+  {
+    "id": 1,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Maldonado",
+    "created_at": "2020-02-21 15:30:45",
+    "updated_at": "2020-02-21 15:30:45",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "enabled": true,
+    "province_id": 1,
+    "name": "San Carlos",
+    "created_at": "2020-02-21 15:31:11",
+    "updated_at": "2020-02-21 15:31:11",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Piriapolis",
+    "created_at": "2020-02-21 15:33:32",
+    "updated_at": "2020-02-21 15:33:32",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Punta del Este",
+    "created_at": "2020-02-21 15:33:53",
+    "updated_at": "2020-02-21 15:33:53",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Pan de Azucar",
+    "created_at": "2020-02-21 15:34:14",
+    "updated_at": "2020-02-21 15:34:14",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Aiguá",
+    "created_at": "2020-02-21 15:34:41",
+    "updated_at": "2020-02-21 15:34:41",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Solis",
+    "created_at": "2020-02-21 15:35:07",
+    "updated_at": "2020-02-21 15:35:07",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Garzón",
+    "created_at": "2020-02-21 15:35:26",
+    "updated_at": "2020-02-21 15:35:26",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Cerro Pelado",
+    "created_at": "2020-02-21 15:39:28",
+    "updated_at": "2020-02-21 15:39:28",
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Gregorio Aznárez",
+    "created_at": "2020-02-21 15:40:00",
+    "updated_at": "2020-02-21 15:40:00",
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Jose Ignacio",
+    "created_at": "2020-02-21 15:44:45",
+    "updated_at": "2020-02-21 15:44:45",
+    "deleted_at": null
+  },
+  {
+    "id": 12,
+    "enabled": true,
+    "province_id": 1,
+    "name": "La barra",
+    "created_at": "2020-02-21 15:45:03",
+    "updated_at": "2020-02-21 15:45:03",
+    "deleted_at": null
+  },
+  {
+    "id": 13,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Pinares - Las Delicias",
+    "created_at": "2020-02-21 15:45:34",
+    "updated_at": "2020-02-21 15:45:34",
+    "deleted_at": null
+  },
+  {
+    "id": 14,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Portezuelo",
+    "created_at": "2020-02-21 15:45:55",
+    "updated_at": "2020-02-21 15:45:55",
+    "deleted_at": null
+  },
+  {
+    "id": 15,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Carmelo",
+    "created_at": "2020-02-21 16:03:41",
+    "updated_at": "2020-02-21 16:03:41",
+    "deleted_at": null
+  },
+  {
+    "id": 16,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Colonia Valdense",
+    "created_at": "2020-02-21 16:04:11",
+    "updated_at": "2020-02-21 16:04:11",
+    "deleted_at": null
+  },
+  {
+    "id": 17,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Florencio Sanchez",
+    "created_at": "2020-02-21 16:04:42",
+    "updated_at": "2020-02-21 16:04:42",
+    "deleted_at": null
+  },
+  {
+    "id": 18,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Juan L. Lacaze",
+    "created_at": "2020-02-21 16:05:12",
+    "updated_at": "2020-02-21 16:05:12",
+    "deleted_at": null
+  },
+  {
+    "id": 19,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Nueva Helvecia",
+    "created_at": "2020-02-21 16:05:39",
+    "updated_at": "2020-02-21 16:05:39",
+    "deleted_at": null
+  },
+  {
+    "id": 20,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Nueva Palmira",
+    "created_at": "2020-02-21 16:05:55",
+    "updated_at": "2020-02-21 16:05:55",
+    "deleted_at": null
+  },
+  {
+    "id": 21,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Ombúes de Lavalle",
+    "created_at": "2020-02-21 16:06:18",
+    "updated_at": "2020-02-21 16:06:18",
+    "deleted_at": null
+  },
+  {
+    "id": 22,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Rosario",
+    "created_at": "2020-02-21 16:06:32",
+    "updated_at": "2020-02-21 16:06:32",
+    "deleted_at": null
+  },
+  {
+    "id": 23,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Tarariras",
+    "created_at": "2020-02-21 16:06:45",
+    "updated_at": "2020-02-21 16:06:45",
+    "deleted_at": null
+  },
+  {
+    "id": 24,
+    "enabled": true,
+    "province_id": 3,
+    "name": "Colonia del Sacramento",
+    "created_at": "2020-02-21 16:07:13",
+    "updated_at": "2020-02-21 16:07:13",
+    "deleted_at": null
+  },
+  {
+    "id": 25,
+    "enabled": true,
+    "province_id": 4,
+    "name": "18 de Mayo",
+    "created_at": "2020-02-21 16:10:57",
+    "updated_at": "2020-02-21 16:10:57",
+    "deleted_at": null
+  },
+  {
+    "id": 26,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Aguas Corrientes",
+    "created_at": "2020-02-21 16:11:19",
+    "updated_at": "2020-02-21 16:11:19",
+    "deleted_at": null
+  },
+  {
+    "id": 27,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Atlántida",
+    "created_at": "2020-02-21 16:11:42",
+    "updated_at": "2020-02-21 16:11:42",
+    "deleted_at": null
+  },
+  {
+    "id": 28,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Barros Blancos",
+    "created_at": "2020-02-21 16:11:59",
+    "updated_at": "2020-02-21 16:11:59",
+    "deleted_at": null
+  },
+  {
+    "id": 29,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Canelones",
+    "created_at": "2020-02-21 16:12:12",
+    "updated_at": "2020-02-21 16:12:12",
+    "deleted_at": null
+  },
+  {
+    "id": 30,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Ciudad de la Costa",
+    "created_at": "2020-02-21 16:12:26",
+    "updated_at": "2020-02-21 16:12:26",
+    "deleted_at": null
+  },
+  {
+    "id": 31,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Colonia Nicolich",
+    "created_at": "2020-02-21 16:12:45",
+    "updated_at": "2020-02-21 16:12:45",
+    "deleted_at": null
+  },
+  {
+    "id": 32,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Empalme Olmos",
+    "created_at": "2020-02-21 16:13:03",
+    "updated_at": "2020-02-21 16:13:03",
+    "deleted_at": null
+  },
+  {
+    "id": 33,
+    "enabled": true,
+    "province_id": 4,
+    "name": "La Floresta",
+    "created_at": "2020-02-21 16:13:19",
+    "updated_at": "2020-02-21 16:13:19",
+    "deleted_at": null
+  },
+  {
+    "id": 34,
+    "enabled": true,
+    "province_id": 4,
+    "name": "La Paz",
+    "created_at": "2020-02-21 16:13:36",
+    "updated_at": "2020-02-21 16:13:36",
+    "deleted_at": null
+  },
+  {
+    "id": 35,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Las Piedras",
+    "created_at": "2020-02-21 16:14:01",
+    "updated_at": "2020-02-21 16:14:01",
+    "deleted_at": null
+  },
+  {
+    "id": 36,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Los Cerrillos",
+    "created_at": "2020-02-21 16:14:14",
+    "updated_at": "2020-02-21 16:14:14",
+    "deleted_at": null
+  },
+  {
+    "id": 37,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Migues",
+    "created_at": "2020-02-21 16:14:30",
+    "updated_at": "2020-02-21 16:14:30",
+    "deleted_at": null
+  },
+  {
+    "id": 38,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Pando",
+    "created_at": "2020-02-21 16:14:48",
+    "updated_at": "2020-02-21 16:14:48",
+    "deleted_at": null
+  },
+  {
+    "id": 39,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Parque del Plata",
+    "created_at": "2020-02-21 16:15:05",
+    "updated_at": "2020-02-21 16:15:05",
+    "deleted_at": null
+  },
+  {
+    "id": 40,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Paso Carrasco",
+    "created_at": "2020-02-21 16:15:27",
+    "updated_at": "2020-02-21 16:15:27",
+    "deleted_at": null
+  },
+  {
+    "id": 41,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Progreso",
+    "created_at": "2020-02-21 16:15:43",
+    "updated_at": "2020-02-21 16:15:43",
+    "deleted_at": null
+  },
+  {
+    "id": 42,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Salinas",
+    "created_at": "2020-02-21 16:16:07",
+    "updated_at": "2020-02-21 16:16:07",
+    "deleted_at": null
+  },
+  {
+    "id": 43,
+    "enabled": true,
+    "province_id": 4,
+    "name": "San Antonio",
+    "created_at": "2020-02-21 16:16:43",
+    "updated_at": "2020-02-21 16:16:43",
+    "deleted_at": null
+  },
+  {
+    "id": 44,
+    "enabled": true,
+    "province_id": 4,
+    "name": "San Bautista",
+    "created_at": "2020-02-21 16:17:00",
+    "updated_at": "2020-02-21 16:17:00",
+    "deleted_at": null
+  },
+  {
+    "id": 45,
+    "enabled": true,
+    "province_id": 4,
+    "name": "San Jacinto",
+    "created_at": "2020-02-21 16:17:14",
+    "updated_at": "2020-02-21 16:17:14",
+    "deleted_at": null
+  },
+  {
+    "id": 46,
+    "enabled": true,
+    "province_id": 4,
+    "name": "San Ramón",
+    "created_at": "2020-02-21 16:17:27",
+    "updated_at": "2020-02-21 16:17:27",
+    "deleted_at": null
+  },
+  {
+    "id": 47,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Santa Lucía",
+    "created_at": "2020-02-21 16:17:41",
+    "updated_at": "2020-02-21 16:17:41",
+    "deleted_at": null
+  },
+  {
+    "id": 48,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Santa Rosa",
+    "created_at": "2020-02-21 16:17:54",
+    "updated_at": "2020-02-21 16:17:54",
+    "deleted_at": null
+  },
+  {
+    "id": 49,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Sauce",
+    "created_at": "2020-02-21 16:18:07",
+    "updated_at": "2020-02-21 16:18:07",
+    "deleted_at": null
+  },
+  {
+    "id": 50,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Soca",
+    "created_at": "2020-02-21 16:18:22",
+    "updated_at": "2020-02-21 16:18:22",
+    "deleted_at": null
+  },
+  {
+    "id": 51,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Suárez",
+    "created_at": "2020-02-21 16:18:38",
+    "updated_at": "2020-02-21 16:18:38",
+    "deleted_at": null
+  },
+  {
+    "id": 52,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Tala",
+    "created_at": "2020-02-21 16:18:51",
+    "updated_at": "2020-02-21 16:18:51",
+    "deleted_at": null
+  },
+  {
+    "id": 53,
+    "enabled": true,
+    "province_id": 4,
+    "name": "Toledo",
+    "created_at": "2020-02-21 16:19:22",
+    "updated_at": "2020-02-21 16:19:22",
+    "deleted_at": null
+  },
+  {
+    "id": 54,
+    "enabled": true,
+    "province_id": 5,
+    "name": "San José de Mayo",
+    "created_at": "2020-02-21 16:22:25",
+    "updated_at": "2020-02-21 16:22:25",
+    "deleted_at": null
+  },
+  {
+    "id": 55,
+    "enabled": true,
+    "province_id": 5,
+    "name": "Ciudad del Plata",
+    "created_at": "2020-02-21 16:37:40",
+    "updated_at": "2020-02-21 16:37:40",
+    "deleted_at": null
+  },
+  {
+    "id": 56,
+    "enabled": true,
+    "province_id": 5,
+    "name": "Ecilda Paullier",
+    "created_at": "2020-02-21 16:38:19",
+    "updated_at": "2020-02-21 16:38:19",
+    "deleted_at": null
+  },
+  {
+    "id": 57,
+    "enabled": true,
+    "province_id": 5,
+    "name": "Libertad",
+    "created_at": "2020-02-21 16:38:36",
+    "updated_at": "2020-02-21 16:38:36",
+    "deleted_at": null
+  },
+  {
+    "id": 58,
+    "enabled": true,
+    "province_id": 5,
+    "name": "Rodríguez",
+    "created_at": "2020-02-21 16:39:28",
+    "updated_at": "2020-02-21 16:39:28",
+    "deleted_at": null
+  },
+  {
+    "id": 59,
+    "enabled": true,
+    "province_id": 6,
+    "name": "Trinidad",
+    "created_at": "2020-02-21 16:41:27",
+    "updated_at": "2020-02-21 16:41:27",
+    "deleted_at": null
+  },
+  {
+    "id": 60,
+    "enabled": true,
+    "province_id": 6,
+    "name": "Ismael Cortinas",
+    "created_at": "2020-02-21 16:41:49",
+    "updated_at": "2020-02-21 16:41:49",
+    "deleted_at": null
+  },
+  {
+    "id": 61,
+    "enabled": true,
+    "province_id": 6,
+    "name": "Andresito",
+    "created_at": "2020-02-21 16:42:05",
+    "updated_at": "2020-02-21 16:42:05",
+    "deleted_at": null
+  },
+  {
+    "id": 62,
+    "enabled": true,
+    "province_id": 6,
+    "name": "La Casilla",
+    "created_at": "2020-02-21 16:42:26",
+    "updated_at": "2020-02-21 16:42:26",
+    "deleted_at": null
+  },
+  {
+    "id": 63,
+    "enabled": true,
+    "province_id": 6,
+    "name": "Juan José Castro",
+    "created_at": "2020-02-21 16:42:38",
+    "updated_at": "2020-02-21 16:42:38",
+    "deleted_at": null
+  },
+  {
+    "id": 64,
+    "enabled": true,
+    "province_id": 6,
+    "name": "Cerro Colorado",
+    "created_at": "2020-02-21 16:42:58",
+    "updated_at": "2020-02-21 16:42:58",
+    "deleted_at": null
+  },
+  {
+    "id": 65,
+    "enabled": true,
+    "province_id": 7,
+    "name": "Florida",
+    "created_at": "2020-02-21 16:45:35",
+    "updated_at": "2020-02-21 16:45:35",
+    "deleted_at": null
+  },
+  {
+    "id": 66,
+    "enabled": true,
+    "province_id": 7,
+    "name": "Sarandí Grande",
+    "created_at": "2020-02-21 16:46:26",
+    "updated_at": "2020-02-21 16:46:26",
+    "deleted_at": null
+  },
+  {
+    "id": 67,
+    "enabled": true,
+    "province_id": 7,
+    "name": "Casupá",
+    "created_at": "2020-02-21 16:46:46",
+    "updated_at": "2020-02-21 16:46:46",
+    "deleted_at": null
+  },
+  {
+    "id": 68,
+    "enabled": true,
+    "province_id": 7,
+    "name": "Fray Marcos",
+    "created_at": "2020-02-21 16:47:15",
+    "updated_at": "2020-02-21 16:47:15",
+    "deleted_at": null
+  },
+  {
+    "id": 69,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Mercedes",
+    "created_at": "2020-02-21 16:51:14",
+    "updated_at": "2020-02-21 16:51:14",
+    "deleted_at": null
+  },
+  {
+    "id": 70,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Dolores",
+    "created_at": "2020-02-21 16:51:28",
+    "updated_at": "2020-02-21 16:51:28",
+    "deleted_at": null
+  },
+  {
+    "id": 71,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Cardona",
+    "created_at": "2020-02-21 16:51:44",
+    "updated_at": "2020-02-21 16:51:44",
+    "deleted_at": null
+  },
+  {
+    "id": 72,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Palmitas",
+    "created_at": "2020-02-21 16:52:00",
+    "updated_at": "2020-02-21 16:52:00",
+    "deleted_at": null
+  },
+  {
+    "id": 73,
+    "enabled": true,
+    "province_id": 8,
+    "name": "José Enrique Rodó",
+    "created_at": "2020-02-21 16:52:24",
+    "updated_at": "2020-02-21 16:52:24",
+    "deleted_at": null
+  },
+  {
+    "id": 74,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Chacras de Dolores",
+    "created_at": "2020-02-21 16:52:45",
+    "updated_at": "2020-02-21 16:52:45",
+    "deleted_at": null
+  },
+  {
+    "id": 75,
+    "enabled": true,
+    "province_id": 8,
+    "name": "Villa Soriano",
+    "created_at": "2020-02-21 16:53:02",
+    "updated_at": "2020-02-21 16:53:02",
+    "deleted_at": null
+  },
+  {
+    "id": 76,
+    "enabled": true,
+    "province_id": 9,
+    "name": "Minas",
+    "created_at": "2020-02-21 16:54:22",
+    "updated_at": "2020-02-21 16:54:22",
+    "deleted_at": null
+  },
+  {
+    "id": 77,
+    "enabled": true,
+    "province_id": 9,
+    "name": "José Pedro Varela",
+    "created_at": "2020-02-21 16:54:38",
+    "updated_at": "2020-02-21 16:54:38",
+    "deleted_at": null
+  },
+  {
+    "id": 78,
+    "enabled": true,
+    "province_id": 9,
+    "name": "Solís de Mataojo",
+    "created_at": "2020-02-21 16:54:56",
+    "updated_at": "2020-02-21 16:54:56",
+    "deleted_at": null
+  },
+  {
+    "id": 79,
+    "enabled": true,
+    "province_id": 9,
+    "name": "José Batlle y Ordóñez",
+    "created_at": "2020-02-21 16:55:16",
+    "updated_at": "2020-02-21 16:55:16",
+    "deleted_at": null
+  },
+  {
+    "id": 80,
+    "enabled": true,
+    "province_id": 9,
+    "name": "Mariscala",
+    "created_at": "2020-02-21 16:55:36",
+    "updated_at": "2020-02-21 16:55:36",
+    "deleted_at": null
+  },
+  {
+    "id": 81,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Rocha",
+    "created_at": "2020-02-21 16:57:05",
+    "updated_at": "2020-02-21 16:57:05",
+    "deleted_at": null
+  },
+  {
+    "id": 82,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Chuy",
+    "created_at": "2020-02-21 16:57:20",
+    "updated_at": "2020-02-21 16:57:20",
+    "deleted_at": null
+  },
+  {
+    "id": 83,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Lascano",
+    "created_at": "2020-02-21 16:57:44",
+    "updated_at": "2020-02-21 16:57:44",
+    "deleted_at": null
+  },
+  {
+    "id": 84,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Castillos",
+    "created_at": "2020-02-21 16:58:00",
+    "updated_at": "2020-02-21 16:58:00",
+    "deleted_at": null
+  },
+  {
+    "id": 85,
+    "enabled": true,
+    "province_id": 10,
+    "name": "La Paloma",
+    "created_at": "2020-02-21 16:58:19",
+    "updated_at": "2020-02-21 16:58:19",
+    "deleted_at": null
+  },
+  {
+    "id": 86,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Cebollatí",
+    "created_at": "2020-02-21 16:58:38",
+    "updated_at": "2020-02-21 16:58:38",
+    "deleted_at": null
+  },
+  {
+    "id": 87,
+    "enabled": true,
+    "province_id": 10,
+    "name": "La Aguada-Costa Azul",
+    "created_at": "2020-02-21 16:58:57",
+    "updated_at": "2020-02-21 16:58:57",
+    "deleted_at": null
+  },
+  {
+    "id": 88,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Velázquez",
+    "created_at": "2020-02-21 16:59:24",
+    "updated_at": "2020-02-21 16:59:24",
+    "deleted_at": null
+  },
+  {
+    "id": 89,
+    "enabled": true,
+    "province_id": 10,
+    "name": "18 de Julio",
+    "created_at": "2020-02-21 16:59:47",
+    "updated_at": "2020-02-21 16:59:47",
+    "deleted_at": null
+  },
+  {
+    "id": 90,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Punta del Diablo",
+    "created_at": "2020-02-21 17:00:04",
+    "updated_at": "2020-02-21 17:00:04",
+    "deleted_at": null
+  },
+  {
+    "id": 91,
+    "enabled": true,
+    "province_id": 10,
+    "name": "San Luis al Medio",
+    "created_at": "2020-02-21 17:00:20",
+    "updated_at": "2020-02-21 17:00:20",
+    "deleted_at": null
+  },
+  {
+    "id": 92,
+    "enabled": true,
+    "province_id": 10,
+    "name": "La Coronilla",
+    "created_at": "2020-02-21 17:00:52",
+    "updated_at": "2020-02-21 17:00:52",
+    "deleted_at": null
+  },
+  {
+    "id": 93,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Aguas Dulces",
+    "created_at": "2020-02-21 17:01:17",
+    "updated_at": "2020-02-21 17:01:17",
+    "deleted_at": null
+  },
+  {
+    "id": 94,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Barra del Chuy",
+    "created_at": "2020-02-21 17:01:41",
+    "updated_at": "2020-02-21 17:01:41",
+    "deleted_at": null
+  },
+  {
+    "id": 95,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Barra de Valizas",
+    "created_at": "2020-02-21 17:02:01",
+    "updated_at": "2020-02-21 17:02:01",
+    "deleted_at": null
+  },
+  {
+    "id": 96,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Arachania",
+    "created_at": "2020-02-21 17:02:17",
+    "updated_at": "2020-02-21 17:02:17",
+    "deleted_at": null
+  },
+  {
+    "id": 97,
+    "enabled": true,
+    "province_id": 10,
+    "name": "La Pedrera",
+    "created_at": "2020-02-21 17:02:34",
+    "updated_at": "2020-02-21 17:02:34",
+    "deleted_at": null
+  },
+  {
+    "id": 98,
+    "enabled": true,
+    "province_id": 10,
+    "name": "19 de Abril",
+    "created_at": "2020-02-21 17:02:52",
+    "updated_at": "2020-02-21 17:02:52",
+    "deleted_at": null
+  },
+  {
+    "id": 99,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Cabo Polonio",
+    "created_at": "2020-02-21 17:03:21",
+    "updated_at": "2020-02-21 17:03:21",
+    "deleted_at": null
+  },
+  {
+    "id": 100,
+    "enabled": true,
+    "province_id": 10,
+    "name": "Punta Rubia y Santa Isabel de la Pedrera",
+    "created_at": "2020-02-21 17:03:40",
+    "updated_at": "2020-02-21 17:03:40",
+    "deleted_at": null
+  },
+  {
+    "id": 101,
+    "enabled": true,
+    "province_id": 10,
+    "name": "La Esmeralda",
+    "created_at": "2020-02-21 17:03:55",
+    "updated_at": "2020-02-21 17:03:55",
+    "deleted_at": null
+  },
+  {
+    "id": 102,
+    "enabled": true,
+    "province_id": 11,
+    "name": "Fray Bentos",
+    "created_at": "2020-02-21 17:06:24",
+    "updated_at": "2020-02-21 17:06:24",
+    "deleted_at": null
+  },
+  {
+    "id": 103,
+    "enabled": true,
+    "province_id": 11,
+    "name": "Young",
+    "created_at": "2020-02-21 17:06:51",
+    "updated_at": "2020-02-21 17:06:51",
+    "deleted_at": null
+  },
+  {
+    "id": 104,
+    "enabled": true,
+    "province_id": 11,
+    "name": "Nuevo Berlín",
+    "created_at": "2020-02-21 17:07:17",
+    "updated_at": "2020-02-21 17:07:17",
+    "deleted_at": null
+  },
+  {
+    "id": 105,
+    "enabled": true,
+    "province_id": 11,
+    "name": "San Javier",
+    "created_at": "2020-02-21 17:07:35",
+    "updated_at": "2020-02-21 17:07:35",
+    "deleted_at": null
+  },
+  {
+    "id": 106,
+    "enabled": true,
+    "province_id": 12,
+    "name": "Durazno",
+    "created_at": "2020-02-21 18:11:24",
+    "updated_at": "2020-02-21 18:11:24",
+    "deleted_at": null
+  },
+  {
+    "id": 107,
+    "enabled": true,
+    "province_id": 12,
+    "name": "Sarandí del Yi",
+    "created_at": "2020-02-21 18:11:46",
+    "updated_at": "2020-02-21 18:11:46",
+    "deleted_at": null
+  },
+  {
+    "id": 108,
+    "enabled": true,
+    "province_id": 12,
+    "name": "Villa del Carmen",
+    "created_at": "2020-02-21 18:12:04",
+    "updated_at": "2020-02-21 18:12:04",
+    "deleted_at": null
+  },
+  {
+    "id": 109,
+    "enabled": true,
+    "province_id": 13,
+    "name": "Vergara",
+    "created_at": "2020-02-21 18:13:20",
+    "updated_at": "2020-02-21 18:13:20",
+    "deleted_at": null
+  },
+  {
+    "id": 110,
+    "enabled": true,
+    "province_id": 13,
+    "name": "Santa Clara de Olimar",
+    "created_at": "2020-02-21 18:13:38",
+    "updated_at": "2020-02-21 18:13:38",
+    "deleted_at": null
+  },
+  {
+    "id": 111,
+    "enabled": true,
+    "province_id": 13,
+    "name": "Cerro Chato",
+    "created_at": "2020-02-21 18:13:52",
+    "updated_at": "2020-02-21 18:13:52",
+    "deleted_at": null
+  },
+  {
+    "id": 112,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Paysandú",
+    "created_at": "2020-02-21 18:15:04",
+    "updated_at": "2020-02-21 18:15:04",
+    "deleted_at": null
+  },
+  {
+    "id": 113,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Guichón",
+    "created_at": "2020-02-21 18:15:21",
+    "updated_at": "2020-02-21 18:15:21",
+    "deleted_at": null
+  },
+  {
+    "id": 115,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Porvenir",
+    "created_at": "2020-02-21 18:16:12",
+    "updated_at": "2020-02-21 18:16:12",
+    "deleted_at": null
+  },
+  {
+    "id": 116,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Quebracho",
+    "created_at": "2020-02-21 18:16:29",
+    "updated_at": "2020-02-21 18:16:29",
+    "deleted_at": null
+  },
+  {
+    "id": 117,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Tambores",
+    "created_at": "2020-02-21 18:16:43",
+    "updated_at": "2020-02-21 18:16:43",
+    "deleted_at": null
+  },
+  {
+    "id": 118,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Piedras Coloradas",
+    "created_at": "2020-02-21 18:17:40",
+    "updated_at": "2020-02-21 18:17:40",
+    "deleted_at": null
+  },
+  {
+    "id": 119,
+    "enabled": true,
+    "province_id": 14,
+    "name": "Chapicuy",
+    "created_at": "2020-02-21 18:18:03",
+    "updated_at": "2020-02-21 18:18:03",
+    "deleted_at": null
+  },
+  {
+    "id": 120,
+    "enabled": true,
+    "province_id": 15,
+    "name": "Tacuarembó",
+    "created_at": "2020-02-21 19:20:28",
+    "updated_at": "2020-02-21 19:20:28",
+    "deleted_at": null
+  },
+  {
+    "id": 121,
+    "enabled": true,
+    "province_id": 15,
+    "name": "Paso de los Toros",
+    "created_at": "2020-02-21 19:20:51",
+    "updated_at": "2020-02-21 19:20:51",
+    "deleted_at": null
+  },
+  {
+    "id": 122,
+    "enabled": true,
+    "province_id": 15,
+    "name": "San Gregorio de Polanco",
+    "created_at": "2020-02-21 19:21:14",
+    "updated_at": "2020-02-21 19:21:14",
+    "deleted_at": null
+  },
+  {
+    "id": 123,
+    "enabled": true,
+    "province_id": 15,
+    "name": "Villa Ansina",
+    "created_at": "2020-02-21 19:21:43",
+    "updated_at": "2020-02-21 19:21:43",
+    "deleted_at": null
+  },
+  {
+    "id": 124,
+    "enabled": true,
+    "province_id": 15,
+    "name": "Tambores",
+    "created_at": "2020-02-21 19:22:13",
+    "updated_at": "2020-02-21 19:22:13",
+    "deleted_at": null
+  },
+  {
+    "id": 125,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Melo",
+    "created_at": "2020-02-21 19:24:20",
+    "updated_at": "2020-02-21 19:24:20",
+    "deleted_at": null
+  },
+  {
+    "id": 126,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Tupambaé",
+    "created_at": "2020-02-21 19:24:46",
+    "updated_at": "2020-02-21 19:24:46",
+    "deleted_at": null
+  },
+  {
+    "id": 127,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Río Branco",
+    "created_at": "2020-02-21 19:24:59",
+    "updated_at": "2020-02-21 19:24:59",
+    "deleted_at": null
+  },
+  {
+    "id": 128,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Ramón Trigo",
+    "created_at": "2020-02-21 19:25:17",
+    "updated_at": "2020-02-21 19:25:17",
+    "deleted_at": null
+  },
+  {
+    "id": 129,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Plácido Rosas",
+    "created_at": "2020-02-21 19:25:31",
+    "updated_at": "2020-02-21 19:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 130,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Fraile Muerto",
+    "created_at": "2020-02-21 19:25:50",
+    "updated_at": "2020-02-21 19:25:50",
+    "deleted_at": null
+  },
+  {
+    "id": 131,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Aceguá",
+    "created_at": "2020-02-21 19:26:12",
+    "updated_at": "2020-02-21 19:26:12",
+    "deleted_at": null
+  },
+  {
+    "id": 132,
+    "enabled": true,
+    "province_id": 16,
+    "name": "Arbolito",
+    "created_at": "2020-02-21 19:26:26",
+    "updated_at": "2020-02-21 19:26:26",
+    "deleted_at": null
+  },
+  {
+    "id": 133,
+    "enabled": true,
+    "province_id": 17,
+    "name": "Salto",
+    "created_at": "2020-02-21 19:28:10",
+    "updated_at": "2020-02-21 19:28:10",
+    "deleted_at": null
+  },
+  {
+    "id": 134,
+    "enabled": true,
+    "province_id": 18,
+    "name": "Rivera",
+    "created_at": "2020-02-21 19:30:49",
+    "updated_at": "2020-02-21 19:30:49",
+    "deleted_at": null
+  },
+  {
+    "id": 135,
+    "enabled": true,
+    "province_id": 18,
+    "name": "Tranqueras",
+    "created_at": "2020-02-21 19:31:03",
+    "updated_at": "2020-02-21 19:31:03",
+    "deleted_at": null
+  },
+  {
+    "id": 136,
+    "enabled": true,
+    "province_id": 18,
+    "name": "Minas de Corrales",
+    "created_at": "2020-02-21 19:31:18",
+    "updated_at": "2020-02-21 19:31:18",
+    "deleted_at": null
+  },
+  {
+    "id": 137,
+    "enabled": true,
+    "province_id": 18,
+    "name": "Vichadero",
+    "created_at": "2020-02-21 19:31:38",
+    "updated_at": "2020-02-21 19:31:38",
+    "deleted_at": null
+  },
+  {
+    "id": 138,
+    "enabled": true,
+    "province_id": 19,
+    "name": "Artigas",
+    "created_at": "2020-02-21 21:38:53",
+    "updated_at": "2020-02-21 21:38:53",
+    "deleted_at": null
+  },
+  {
+    "id": 139,
+    "enabled": true,
+    "province_id": 19,
+    "name": "Bella Unión",
+    "created_at": "2020-02-21 21:39:09",
+    "updated_at": "2020-02-21 21:39:09",
+    "deleted_at": null
+  },
+  {
+    "id": 140,
+    "enabled": true,
+    "province_id": 19,
+    "name": "Tomás Gomensoro",
+    "created_at": "2020-02-21 21:40:56",
+    "updated_at": "2020-02-21 21:40:56",
+    "deleted_at": null
+  },
+  {
+    "id": 141,
+    "enabled": true,
+    "province_id": 19,
+    "name": "Baltasar Brum",
+    "created_at": "2020-02-21 21:41:10",
+    "updated_at": "2020-02-21 21:41:10",
+    "deleted_at": null
+  },
+  {
+    "id": 142,
+    "enabled": true,
+    "province_id": 20,
+    "name": "VENTA ONLINE",
+    "created_at": "2020-02-26 14:22:59",
+    "updated_at": "2020-02-26 14:22:59",
+    "deleted_at": null
+  },
+  {
+    "id": 143,
+    "enabled": true,
+    "province_id": 2,
+    "name": "Montevideo",
+    "created_at": "2020-03-05 13:27:53",
+    "updated_at": "2020-03-05 13:27:53",
+    "deleted_at": null
+  },
+  {
+    "id": 144,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Mercado Natural del Este",
+    "created_at": "2020-09-07 13:49:45",
+    "updated_at": "2020-09-07 13:49:45",
+    "deleted_at": null
+  },
+  {
+    "id": 149,
+    "enabled": true,
+    "province_id": 21,
+    "name": "Plasticoin Market",
+    "created_at": "2021-10-20 15:49:08",
+    "updated_at": "2021-10-20 15:49:08",
+    "deleted_at": null
+  },
+  {
+    "id": 150,
+    "enabled": true,
+    "province_id": 1,
+    "name": "Balneario Buenos Aires",
+    "created_at": "2023-01-23 19:00:20",
+    "updated_at": "2023-01-23 19:00:20",
+    "deleted_at": null
+  }
+]
